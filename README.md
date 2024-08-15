@@ -23,7 +23,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- [My live website](https://suzzy-dszy.github.io/QR-Code-website/)
+- [My live website](https://suzzy-dszy.github.io/Blog-Preview-Card/)
 
 ## My process
 
@@ -43,7 +43,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Sunay Dagar](https://suzzy-dszy.github.io/QR-Code-website/)
+- Website - [Sunay Dagar](https://suzzy-dszy.github.io/Blog-Preview-Card/)
 - Frontend Mentor - [@suzzy-dszy](https://www.frontendmentor.io/profile/suzzy-dszy)
 
 ## Questions
