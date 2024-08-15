@@ -13,8 +13,6 @@
     />
 
     <title>Frontend Mentor | Blog preview card</title>
-
-    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
     <style>
       @font-face {
         font-family: FigTree;
@@ -41,6 +39,7 @@
         line-height: 150%;
         letter-spacing: 0px;
         font-weight: 800;
+        transition: color 0.5s ease-in-out;
       }
 
       .container {
@@ -48,7 +47,7 @@
         padding: 20px;
         border-radius: 20px;
         box-shadow: 10px 10px #111111;
-        transition: all 0.5s ease-in-out;
+        transition: box-shadow 0.5s ease-in-out;
       }
 
       #image-card {
@@ -60,10 +59,10 @@
         text-align: center;
         width: fit-content;
         padding: 6px;
+        padding-left: 10px;
         border-radius: 5px;
         font-size: 14px;
         font-weight: 800;
-        padding-left: 10px;
         line-height: 150%;
         letter-spacing: 0px;
       }
@@ -103,14 +102,6 @@
         letter-spacing: 0px;
       }
 
-      .attribution {
-        font-size: 11px;
-        text-align: center;
-      }
-      .attribution a {
-        color: hsl(228, 45%, 44%);
-      }
-
       .container:hover {
         box-shadow: 20px 20px #111111;
         cursor: pointer;
@@ -119,13 +110,25 @@
       .container:hover > h1 {
         color: #f4d04e;
       }
+
+      .attribution {
+        font-size: 11px;
+        text-align: center;
+      }
+      .attribution a {
+        color: hsl(228, 45%, 44%);
+      }
+
+      @media (max-width: 560px) {
+        
+      }
     </style>
   </head>
 
   <body>
     <main>
       <div class="container">
-        <img id="image-card" src="./assets/images/illustration-article.svg" />
+        <img id="image-card" src="./assets/images/illustration-article.svg" alt="illustration"/>
         <p class="content-tag">Learning</p>
         <p class="publish-date">Published 21 Dec 2023</p>
 
