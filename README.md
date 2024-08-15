@@ -12,13 +12,14 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author) 
--[Questions](#Questions)
+- [Questions](#Questions)
 
 ## Overview
 
 ### Screenshot
 
 ![](./assets/images/Mycode.png)
+
 - A screenshot of my solution code.
 
 ### Links
@@ -34,8 +35,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - Flexbox
 
 ### What I learned
-- Learnt how to effectively use transition property to create the smooth transition when hovering on and off the blog card.
 
+- Learnt how to effectively use transition property to create the smooth transition when hovering on and off the blog card.
 
 ### Useful resources
 
@@ -47,4 +48,5 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - Frontend Mentor - [@suzzy-dszy](https://www.frontendmentor.io/profile/suzzy-dszy)
 
 ## Questions
+
 No questions in particular, but any feedback would be greatly appreciated 💯
