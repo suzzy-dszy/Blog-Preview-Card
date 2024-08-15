@@ -15,8 +15,11 @@
     <title>Frontend Mentor | Blog preview card</title>
     <style>
       @font-face {
-        font-family: FigTree;
-        src: local(assets\fonts\Figtree-VariableFont_wght.ttf);
+        font-family: "Figtree";
+        src: url("./assets/fonts/Figtree-VariableFont_wght.ttf")
+          format("truetype");
+        font-weight: 100 900; /* Supports a range of weights from 100 to 900 */
+        font-style: normal;
       }
 
       body {
@@ -38,7 +41,7 @@
         font-size: 24px;
         line-height: 150%;
         letter-spacing: 0px;
-        font-weight: 800;
+        font-weight: 800; /* Extra Bold */
         transition: color 0.5s ease-in-out;
       }
 
@@ -62,14 +65,14 @@
         padding-left: 10px;
         border-radius: 5px;
         font-size: 14px;
-        font-weight: 800;
+        font-weight: 800; /* Extra Bold */
         line-height: 150%;
         letter-spacing: 0px;
       }
 
       .publish-date {
         font-size: 14px;
-        font-weight: 500;
+        font-weight: 500; /* Medium */
         line-height: 150%;
         letter-spacing: 0px;
         margin: 5;
@@ -77,7 +80,7 @@
 
       .card-text {
         font-size: 16px;
-        font-weight: 500;
+        font-weight: 500; /* Medium */
         line-height: 150%;
         letter-spacing: 0px;
         color: #6b6b6b;
@@ -94,7 +97,7 @@
 
       .name {
         font-size: 14px;
-        font-weight: 800;
+        font-weight: 800; /* Extra Bold */
         padding: 0;
         margin: 0;
         padding-left: 10px;
