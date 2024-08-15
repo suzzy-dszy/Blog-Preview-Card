@@ -11,30 +11,30 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
-- [Author](#author) 
+- [Author](#author)
 - [Questions](#Questions)
 
 ## Overview
 
-### Screenshot
+### Screenshot📸
 
 ![](./assets/images/Mycode.png)
 
 - A screenshot of my solution code.
 
-### Links
+### Links🔗
 
 - [My live website](https://suzzy-dszy.github.io/Blog-Preview-Card/)
 
 ## My process
 
-### Built with
+### Built with🏗️
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 
-### What I learned
+### What I learned📝
 
 - Learnt how to effectively use transition property to create the smooth transition when hovering on and off the blog card.
 
@@ -42,11 +42,11 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - An excellent resource to make quick referrals, and the demo code provided helps me to better understand the code I write.
 
-## Author
+## Author📖
 
 - Website - [Sunay Dagar](https://suzzy-dszy.github.io/Blog-Preview-Card/)
 - Frontend Mentor - [@suzzy-dszy](https://www.frontendmentor.io/profile/suzzy-dszy)
 
-## Questions
+## Questions❔
 
 No questions in particular, but any feedback would be greatly appreciated 💯
